@@ -6,11 +6,9 @@ technical/plos/journal.pbio.0020028.txt
 technical/plos/journal.pbio.0020035.txt
 technical/plos/journal.pbio.0020040.txt
 technical/plos/journal.pbio.0020042.txt
-technical/plos/journal.pbio.0020043.txt
 technical/plos/journal.pbio.0020046.txt
 technical/plos/journal.pbio.0020047.txt
 technical/plos/journal.pbio.0020052.txt
-technical/plos/journal.pbio.0020053.txt
 technical/plos/journal.pbio.0020054.txt
 technical/plos/journal.pbio.0020063.txt
 technical/plos/journal.pbio.0020064.txt
@@ -19,10 +17,8 @@ technical/plos/journal.pbio.0020068.txt
 technical/plos/journal.pbio.0020071.txt
 technical/plos/journal.pbio.0020073.txt
 technical/plos/journal.pbio.0020100.txt
-technical/plos/journal.pbio.0020101.txt
 technical/plos/journal.pbio.0020105.txt
 technical/plos/journal.pbio.0020112.txt
-technical/plos/journal.pbio.0020113.txt
 technical/plos/journal.pbio.0020116.txt
 technical/plos/journal.pbio.0020121.txt
 technical/plos/journal.pbio.0020125.txt
@@ -43,8 +39,6 @@ technical/plos/journal.pbio.0020187.txt
 technical/plos/journal.pbio.0020190.txt
 technical/plos/journal.pbio.0020206.txt
 technical/plos/journal.pbio.0020213.txt
-technical/plos/journal.pbio.0020214.txt
-technical/plos/journal.pbio.0020215.txt
 technical/plos/journal.pbio.0020216.txt
 technical/plos/journal.pbio.0020223.txt
 technical/plos/journal.pbio.0020224.txt
@@ -54,11 +48,9 @@ technical/plos/journal.pbio.0020241.txt
 technical/plos/journal.pbio.0020262.txt
 technical/plos/journal.pbio.0020263.txt
 technical/plos/journal.pbio.0020267.txt
-technical/plos/journal.pbio.0020272.txt
 technical/plos/journal.pbio.0020276.txt
 technical/plos/journal.pbio.0020297.txt
 technical/plos/journal.pbio.0020302.txt
-technical/plos/journal.pbio.0020306.txt
 technical/plos/journal.pbio.0020307.txt
 technical/plos/journal.pbio.0020310.txt
 technical/plos/journal.pbio.0020311.txt
@@ -69,23 +61,19 @@ technical/plos/journal.pbio.0020348.txt
 technical/plos/journal.pbio.0020350.txt
 technical/plos/journal.pbio.0020353.txt
 technical/plos/journal.pbio.0020354.txt
-technical/plos/journal.pbio.0020394.txt
 technical/plos/journal.pbio.0020400.txt
 technical/plos/journal.pbio.0020401.txt
-technical/plos/journal.pbio.0020404.txt
 technical/plos/journal.pbio.0020406.txt
 technical/plos/journal.pbio.0020419.txt
 technical/plos/journal.pbio.0020420.txt
 technical/plos/journal.pbio.0020430.txt
 technical/plos/journal.pbio.0020431.txt
 technical/plos/journal.pbio.0020439.txt
-technical/plos/journal.pbio.0020440.txt
 technical/plos/journal.pbio.0030021.txt
 technical/plos/journal.pbio.0030024.txt
 technical/plos/journal.pbio.0030032.txt
 technical/plos/journal.pbio.0030050.txt
 technical/plos/journal.pbio.0030051.txt
-technical/plos/journal.pbio.0030056.txt
 technical/plos/journal.pbio.0030062.txt
 technical/plos/journal.pbio.0030065.txt
 technical/plos/journal.pbio.0030076.txt
@@ -106,7 +94,6 @@ technical/plos/pmed.0010022.txt
 technical/plos/pmed.0010023.txt
 technical/plos/pmed.0010024.txt
 technical/plos/pmed.0010025.txt
-technical/plos/pmed.0010026.txt
 technical/plos/pmed.0010028.txt
 technical/plos/pmed.0010029.txt
 technical/plos/pmed.0010030.txt
@@ -114,7 +101,6 @@ technical/plos/pmed.0010034.txt
 technical/plos/pmed.0010036.txt
 technical/plos/pmed.0010039.txt
 technical/plos/pmed.0010041.txt
-technical/plos/pmed.0010042.txt
 technical/plos/pmed.0010045.txt
 technical/plos/pmed.0010046.txt
 technical/plos/pmed.0010047.txt
@@ -134,7 +120,6 @@ technical/plos/pmed.0010067.txt
 technical/plos/pmed.0010068.txt
 technical/plos/pmed.0010069.txt
 technical/plos/pmed.0010070.txt
-technical/plos/pmed.0010071.txt
 technical/plos/pmed.0020002.txt
 technical/plos/pmed.0020005.txt
 technical/plos/pmed.0020007.txt
@@ -162,7 +147,6 @@ technical/plos/pmed.0020047.txt
 technical/plos/pmed.0020048.txt
 technical/plos/pmed.0020050.txt
 technical/plos/pmed.0020055.txt
-technical/plos/pmed.0020059.txt
 technical/plos/pmed.0020060.txt
 technical/plos/pmed.0020061.txt
 technical/plos/pmed.0020062.txt
@@ -223,7 +207,6 @@ technical/plos/pmed.0020201.txt
 technical/plos/pmed.0020203.txt
 technical/plos/pmed.0020206.txt
 technical/plos/pmed.0020208.txt
-technical/plos/pmed.0020209.txt
 technical/plos/pmed.0020210.txt
 technical/plos/pmed.0020212.txt
 technical/plos/pmed.0020216.txt
